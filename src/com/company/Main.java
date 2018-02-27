@@ -1,6 +1,6 @@
 package com.company;
 <<<<<<< HEAD
-//LOLOLOLOLOLOLOL
+//LOLOLOLOLOLOLOL, brandonn lol
 
 =======
 
