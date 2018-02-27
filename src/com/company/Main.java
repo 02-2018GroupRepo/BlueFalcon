@@ -1,6 +1,11 @@
 package com.company;
+<<<<<<< HEAD
 //LOLOLOLOLOLOLOL
 
+=======
+
+//Dina changes here!!! NEw changes here
+>>>>>>> a0d9ded971243bcecb926fe73df061d93f0928b4
 
 public class Main {
 
