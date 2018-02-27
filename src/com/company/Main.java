@@ -21,7 +21,7 @@ public class Main {
         /*group each person into an array of Person objects*/
         Person[] people ={victor,Branden,Bryant,Shane,Rosslyn,Dina, Aleya};
 
-
+        String change = "Im made a change from shane's comp";
 
         System.out.println("Team Blue Falcon");
 
