@@ -16,7 +16,7 @@ public class Main {
         Person Shane = new Person("Shane","","Georgia Southern University","Sales");
         Person Rosslyn = new Person("Rosslyn","","University of North Texas","Cartronics");
         Person Dina = new Person("Dina","", "Georgia Tech","NBC");
-        Person Aleya = new Person("Aleya","","Geogia State University","Georgia State TA");
+        Person Aleya = new Person("Aleya","","Geogia State University","Georgia State Teaching Assistant");
 
         /*group each person into an array of Person objects*/
         Person[] people ={victor,Branden,Bryant,Shane,Rosslyn,Dina, Aleya};
