@@ -5,7 +5,7 @@ package com.company;
 public class Main {
 
     /* our clas within a class. if this were its own file as another group had it, it would be called "Person.class"  */
- 
+
 
     public static void main(String[] args) {
 	// write your code here
